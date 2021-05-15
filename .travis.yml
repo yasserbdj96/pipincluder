@@ -20,4 +20,4 @@ install:
 
 script: 
   - python3 pipincluder/pipincluder.py || python pipincluder/pipincluder.py
-  - python3 examples/example_1.py || python examples/example_1.py
+  - python3 example_1.py || python example_1.py
