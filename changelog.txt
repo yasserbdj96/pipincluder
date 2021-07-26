@@ -1,6 +1,7 @@
+## 1.0.6
+ - fix bugs.
 ## 1.0.5
  - fix bugs.
  - new build 
-
 ## 0.0.1
  - First public release.
